@@ -1,0 +1,10 @@
+hola
+if
+while
+int
+9
+[
+for
++
+.
+$
