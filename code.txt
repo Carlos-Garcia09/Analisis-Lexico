@@ -1,4 +1,0 @@
-float numero = 15.5;
-if(var = 11){}
-string = "hola"
-$
